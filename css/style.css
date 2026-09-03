@@ -1,0 +1,11 @@
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-family: sans-serif;
+}
+
+nav {
+    display: flex;
+    gap: 1rem;
+}
